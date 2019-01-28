@@ -1,0 +1,1 @@
+~/project/anaconda2/bin/Rscript de.R phenotype.twbga_lt_150_M1_twbga_gt_150_M0.day4.DE.csv $PWD/analysis.DE.genes.day4.twbga_lt_150_M1_twbga_gt_150_M0day4
