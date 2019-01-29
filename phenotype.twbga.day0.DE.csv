@@ -1,92 +1,92 @@
-	sampleName	fileName	condition
-0	01-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-005-D0/quant.gcounts	twbga_lt_150
-1	01-012-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-012-D0/quant.gcounts	twbga_lt_150
-2	01-013-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-013-D0/quant.gcounts	twbga_lt_150
-3	01-019-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-019-D0/quant.gcounts	twbga_lt_150
-4	01-020-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-020-D0/quant.gcounts	twbga_gt_150
-5	01-021-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-021-D0/quant.gcounts	twbga_gt_150
-6	02-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-003-D0/quant.gcounts	twbga_lt_150
-7	02-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-005-D0/quant.gcounts	twbga_lt_150
-8	02-015-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-015-D0/quant.gcounts	twbga_gt_150
-9	02-019-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-019-D0/quant.gcounts	twbga_gt_150
-10	02-020-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-020-D0/quant.gcounts	twbga_gt_150
-11	02-023-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-023-D0/quant.gcounts	twbga_lt_150
-12	02-024-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-024-D0/quant.gcounts	twbga_lt_150
-13	02-025-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-025-D0/quant.gcounts	twbga_lt_150
-14	02-026-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-026-D0/quant.gcounts	twbga_lt_150
-15	02-027-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-027-D0/quant.gcounts	twbga_lt_150
-16	02-032-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-032-D0/quant.gcounts	twbga_lt_150
-17	02-034-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-034-D0/quant.gcounts	twbga_lt_150
-18	02-036-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-036-D0/quant.gcounts	twbga_gt_150
-19	02-039-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-039-D0/quant.gcounts	twbga_lt_150
-20	02-042-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-042-D0/quant.gcounts	twbga_lt_150
-21	02-043-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-043-D0/quant.gcounts	twbga_lt_150
-22	06-001-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-001-D0/quant.gcounts	twbga_lt_150
-23	06-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-003-D0/quant.gcounts	twbga_gt_150
-24	06-004-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-004-D0/quant.gcounts	twbga_gt_150
-25	06-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-005-D0/quant.gcounts	twbga_gt_150
-26	06-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-008-D0/quant.gcounts	twbga_lt_150
-27	06-009-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-009-D0/quant.gcounts	twbga_lt_150
-28	07-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-003-D0/quant.gcounts	twbga_lt_150
-29	07-004-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-004-D0/quant.gcounts	twbga_gt_150
-30	07-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-005-D0/quant.gcounts	twbga_gt_150
-31	07-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-008-D0/quant.gcounts	twbga_gt_150
-32	08-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-003-D0/quant.gcounts	twbga_gt_150
-33	08-010-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-010-D0/quant.gcounts	twbga_lt_150
-34	08-016-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-016-D0/quant.gcounts	twbga_lt_150
-35	08-018-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-018-D0/quant.gcounts	twbga_lt_150
-36	09-006-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-006-D0/quant.gcounts	twbga_lt_150
-37	09-010-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-010-D0/quant.gcounts	twbga_lt_150
-38	09-013-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-013-D0/quant.gcounts	twbga_lt_150
-39	09-014-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-014-D0/quant.gcounts	twbga_gt_150
-40	09-016-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-016-D0/quant.gcounts	twbga_lt_150
-41	10-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-002-D0/quant.gcounts	twbga_lt_150
-42	10-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-003-D0/quant.gcounts	twbga_lt_150
-43	10-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-008-D0/quant.gcounts	twbga_lt_150
-44	10-013-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-013-D0/quant.gcounts	twbga_lt_150
-45	10-018-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-018-D0/quant.gcounts	twbga_lt_150
-46	10-019-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-019-D0/quant.gcounts	twbga_lt_150
-47	10-020-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-020-D0/quant.gcounts	twbga_lt_150
-48	10-024-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-024-D0/quant.gcounts	twbga_lt_150
-49	10-025-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-025-D0/quant.gcounts	twbga_lt_150
-50	10-027-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-027-D0/quant.gcounts	twbga_lt_150
-51	10-032-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-032-D0/quant.gcounts	twbga_lt_150
-52	10-036-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-036-D0/quant.gcounts	twbga_lt_150
-53	11-007-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/11-007-D0/quant.gcounts	twbga_gt_150
-54	13-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/13-008-D0/quant.gcounts	twbga_lt_150
-55	14-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/14-005-D0/quant.gcounts	twbga_lt_150
-56	15-004-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/15-004-D0/quant.gcounts	twbga_lt_150
-57	16-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-002-D0/quant.gcounts	twbga_lt_150
-58	16-006-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-006-D0/quant.gcounts	twbga_lt_150
-59	16-014-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-014-D0/quant.gcounts	twbga_gt_150
-60	16-015-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-015-D0/quant.gcounts	twbga_lt_150
-61	16-016-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-016-D0/quant.gcounts	twbga_lt_150
-62	16-017-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-017-D0/quant.gcounts	twbga_lt_150
-63	16-023-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-023-D0/quant.gcounts	twbga_gt_150
-64	16-027-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-027-D0/quant.gcounts	twbga_lt_150
-65	18-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-002-D0/quant.gcounts	twbga_gt_150
-66	18-003-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-003-D0/quant.gcounts	twbga_lt_150
-67	18-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-008-D0/quant.gcounts	twbga_lt_150
-68	18-016-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-016-D0/quant.gcounts	twbga_gt_150
-69	18-018-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-018-D0/quant.gcounts	twbga_lt_150
-70	18-019-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-019-D0/quant.gcounts	twbga_lt_150
-71	18-020-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-020-D0/quant.gcounts	twbga_lt_150
-72	18-022-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-022-D0/quant.gcounts	twbga_lt_150
-73	20-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-002-D0/quant.gcounts	twbga_lt_150
-74	20-006-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-006-D0/quant.gcounts	twbga_gt_150
-75	20-009-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-009-D0/quant.gcounts	twbga_lt_150
-76	20-016-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-016-D0/quant.gcounts	twbga_lt_150
-77	22-010-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/22-010-D0/quant.gcounts	twbga_gt_150
-78	23-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-002-D0/quant.gcounts	twbga_gt_150
-79	23-004-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-004-D0/quant.gcounts	twbga_lt_150
-80	23-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-005-D0/quant.gcounts	twbga_gt_150
-81	23-006-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-006-D0/quant.gcounts	twbga_lt_150
-82	23-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-008-D0/quant.gcounts	twbga_gt_150
-83	23-009-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-009-D0/quant.gcounts	twbga_lt_150
-84	24-001-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/24-001-D0/quant.gcounts	twbga_lt_150
-85	26-002-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/26-002-D0/quant.gcounts	twbga_lt_150
-86	26-013-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/26-013-D0/quant.gcounts	twbga_lt_150
-87	27-005-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-005-D0/quant.gcounts	twbga_lt_150
-88	27-006-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-006-D0/quant.gcounts	twbga_lt_150
-89	27-007-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-007-D0/quant.gcounts	twbga_lt_150
-90	27-008-D0	/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-008-D0/quant.gcounts	twbga_lt_150
+,sampleName,fileName,condition
+0,01-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-005-D0/quant.gcounts,twbga_lt_150
+1,01-012-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-012-D0/quant.gcounts,twbga_lt_150
+2,01-013-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-013-D0/quant.gcounts,twbga_lt_150
+3,01-019-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-019-D0/quant.gcounts,twbga_lt_150
+4,01-020-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-020-D0/quant.gcounts,twbga_gt_150
+5,01-021-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/01-021-D0/quant.gcounts,twbga_gt_150
+6,02-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-003-D0/quant.gcounts,twbga_lt_150
+7,02-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-005-D0/quant.gcounts,twbga_lt_150
+8,02-015-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-015-D0/quant.gcounts,twbga_gt_150
+9,02-019-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-019-D0/quant.gcounts,twbga_gt_150
+10,02-020-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-020-D0/quant.gcounts,twbga_gt_150
+11,02-023-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-023-D0/quant.gcounts,twbga_lt_150
+12,02-024-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-024-D0/quant.gcounts,twbga_lt_150
+13,02-025-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-025-D0/quant.gcounts,twbga_lt_150
+14,02-026-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-026-D0/quant.gcounts,twbga_lt_150
+15,02-027-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-027-D0/quant.gcounts,twbga_lt_150
+16,02-032-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-032-D0/quant.gcounts,twbga_lt_150
+17,02-034-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-034-D0/quant.gcounts,twbga_lt_150
+18,02-036-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-036-D0/quant.gcounts,twbga_gt_150
+19,02-039-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-039-D0/quant.gcounts,twbga_lt_150
+20,02-042-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-042-D0/quant.gcounts,twbga_lt_150
+21,02-043-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/02-043-D0/quant.gcounts,twbga_lt_150
+22,06-001-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-001-D0/quant.gcounts,twbga_lt_150
+23,06-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-003-D0/quant.gcounts,twbga_gt_150
+24,06-004-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-004-D0/quant.gcounts,twbga_gt_150
+25,06-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-005-D0/quant.gcounts,twbga_gt_150
+26,06-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-008-D0/quant.gcounts,twbga_lt_150
+27,06-009-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/06-009-D0/quant.gcounts,twbga_lt_150
+28,07-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-003-D0/quant.gcounts,twbga_lt_150
+29,07-004-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-004-D0/quant.gcounts,twbga_gt_150
+30,07-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-005-D0/quant.gcounts,twbga_gt_150
+31,07-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/07-008-D0/quant.gcounts,twbga_gt_150
+32,08-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-003-D0/quant.gcounts,twbga_gt_150
+33,08-010-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-010-D0/quant.gcounts,twbga_lt_150
+34,08-016-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-016-D0/quant.gcounts,twbga_lt_150
+35,08-018-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/08-018-D0/quant.gcounts,twbga_lt_150
+36,09-006-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-006-D0/quant.gcounts,twbga_lt_150
+37,09-010-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-010-D0/quant.gcounts,twbga_lt_150
+38,09-013-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-013-D0/quant.gcounts,twbga_lt_150
+39,09-014-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-014-D0/quant.gcounts,twbga_gt_150
+40,09-016-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/09-016-D0/quant.gcounts,twbga_lt_150
+41,10-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-002-D0/quant.gcounts,twbga_lt_150
+42,10-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-003-D0/quant.gcounts,twbga_lt_150
+43,10-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-008-D0/quant.gcounts,twbga_lt_150
+44,10-013-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-013-D0/quant.gcounts,twbga_lt_150
+45,10-018-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-018-D0/quant.gcounts,twbga_lt_150
+46,10-019-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-019-D0/quant.gcounts,twbga_lt_150
+47,10-020-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-020-D0/quant.gcounts,twbga_lt_150
+48,10-024-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-024-D0/quant.gcounts,twbga_lt_150
+49,10-025-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-025-D0/quant.gcounts,twbga_lt_150
+50,10-027-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-027-D0/quant.gcounts,twbga_lt_150
+51,10-032-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-032-D0/quant.gcounts,twbga_lt_150
+52,10-036-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/10-036-D0/quant.gcounts,twbga_lt_150
+53,11-007-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/11-007-D0/quant.gcounts,twbga_gt_150
+54,13-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/13-008-D0/quant.gcounts,twbga_lt_150
+55,14-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/14-005-D0/quant.gcounts,twbga_lt_150
+56,15-004-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/15-004-D0/quant.gcounts,twbga_lt_150
+57,16-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-002-D0/quant.gcounts,twbga_lt_150
+58,16-006-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-006-D0/quant.gcounts,twbga_lt_150
+59,16-014-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-014-D0/quant.gcounts,twbga_gt_150
+60,16-015-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-015-D0/quant.gcounts,twbga_lt_150
+61,16-016-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-016-D0/quant.gcounts,twbga_lt_150
+62,16-017-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-017-D0/quant.gcounts,twbga_lt_150
+63,16-023-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-023-D0/quant.gcounts,twbga_gt_150
+64,16-027-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/16-027-D0/quant.gcounts,twbga_lt_150
+65,18-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-002-D0/quant.gcounts,twbga_gt_150
+66,18-003-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-003-D0/quant.gcounts,twbga_lt_150
+67,18-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-008-D0/quant.gcounts,twbga_lt_150
+68,18-016-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-016-D0/quant.gcounts,twbga_gt_150
+69,18-018-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-018-D0/quant.gcounts,twbga_lt_150
+70,18-019-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-019-D0/quant.gcounts,twbga_lt_150
+71,18-020-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-020-D0/quant.gcounts,twbga_lt_150
+72,18-022-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/18-022-D0/quant.gcounts,twbga_lt_150
+73,20-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-002-D0/quant.gcounts,twbga_lt_150
+74,20-006-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-006-D0/quant.gcounts,twbga_gt_150
+75,20-009-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-009-D0/quant.gcounts,twbga_lt_150
+76,20-016-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/20-016-D0/quant.gcounts,twbga_lt_150
+77,22-010-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/22-010-D0/quant.gcounts,twbga_gt_150
+78,23-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-002-D0/quant.gcounts,twbga_gt_150
+79,23-004-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-004-D0/quant.gcounts,twbga_lt_150
+80,23-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-005-D0/quant.gcounts,twbga_gt_150
+81,23-006-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-006-D0/quant.gcounts,twbga_lt_150
+82,23-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-008-D0/quant.gcounts,twbga_gt_150
+83,23-009-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/23-009-D0/quant.gcounts,twbga_lt_150
+84,24-001-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/24-001-D0/quant.gcounts,twbga_lt_150
+85,26-002-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/26-002-D0/quant.gcounts,twbga_lt_150
+86,26-013-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/26-013-D0/quant.gcounts,twbga_lt_150
+87,27-005-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-005-D0/quant.gcounts,twbga_lt_150
+88,27-006-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-006-D0/quant.gcounts,twbga_lt_150
+89,27-007-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-007-D0/quant.gcounts,twbga_lt_150
+90,27-008-D0,/u/home/s/serghei/scratch/Kinisha.Gala//salmon.counts/27-008-D0/quant.gcounts,twbga_lt_150
